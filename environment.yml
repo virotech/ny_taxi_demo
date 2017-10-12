@@ -2,8 +2,18 @@ name: example-environment
 
 dependencies:
   - python=3.5.2
+<<<<<<< HEAD
   - bokeh=0.12.4
   - datashader=0.4.0
   - param=1.5.1
   - paramnb=2.0.2
+=======
+  - numpy
+  - pandas
+  - scipy
+  - bokeh
+  - datashader
+  - param
+  - matplotlib
+>>>>>>> d873b7d861673adc2d22a48872753b0b160a796d
 
