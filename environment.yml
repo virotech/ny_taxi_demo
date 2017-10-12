@@ -7,6 +7,8 @@ dependencies:
   - datashader=0.4.0
   - param=1.5.1
   - scikit-learn=0.18.1
+  - jupyter_console=5.1.0
+  - jupyter_client=5.1.0
   - pip:
     - git+https://github.com/ioam/paramnb.git#egg=paramnb
 
