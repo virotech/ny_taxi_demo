@@ -2,14 +2,8 @@ name: example-environment
 
 dependencies:
   - python=3.5.2
-  - numpy
-  - pandas
-  - datetime
-  - scipy
-  - bokeh
-  - datashader
-  - functools
-  - param
-  - paramnb
-  - matplotlib
+  - bokeh=0.12.4
+  - datashader=0.4.0
+  - param=1.5.1
+  - paramnb=2.0.2
 
