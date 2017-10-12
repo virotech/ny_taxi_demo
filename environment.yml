@@ -8,6 +8,5 @@ dependencies:
   - bokeh
   - datashader
   - param
-  - paramnb
   - matplotlib
 
