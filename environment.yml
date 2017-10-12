@@ -2,7 +2,6 @@ name: example-environment
 
 dependencies:
   - python=3.5.2
-  - warnings
   - numpy
   - pandas
   - datetime
