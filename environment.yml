@@ -4,7 +4,6 @@ dependencies:
   - python=3.5.2
   - numpy
   - pandas
-  - datetime
   - scipy
   - bokeh
   - datashader
