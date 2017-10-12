@@ -7,7 +7,6 @@ dependencies:
   - scipy
   - bokeh
   - datashader
-  - functools
   - param
   - paramnb
   - matplotlib
